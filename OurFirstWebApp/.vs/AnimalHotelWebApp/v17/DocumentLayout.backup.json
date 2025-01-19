@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|f:\\teachinghillel\\homework10\\ourfirstwebapp\\ourfirstwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|solutionrelative:ourfirstwebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|f:\\teachinghillel\\homework10\\ourfirstwebapp\\ourfirstwebapp\\animalhotelwebapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|solutionrelative:ourfirstwebapp\\animalhotelwebapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|f:\\teachinghillel\\homework10\\ourfirstwebapp\\ourfirstwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|solutionrelative:ourfirstwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|f:\\teachinghillel\\homework10\\ourfirstwebapp\\ourfirstwebapp\\appsettings.test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|solutionrelative:ourfirstwebapp\\appsettings.test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|f:\\teachinghillel\\homework10\\ourfirstwebapp\\ourfirstwebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|solutionrelative:ourfirstwebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|f:\\teachinghillel\\homework10\\ourfirstwebapp\\ourfirstwebapp\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|solutionrelative:ourfirstwebapp\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|f:\\teachinghillel\\homework10\\ourfirstwebapp\\ourfirstwebapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|solutionrelative:ourfirstwebapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|f:\\teachinghillel\\homework10\\ourfirstwebapp\\ourfirstwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7342E5A2-986B-4973-B33E-6A0EB7B11769}|OurFirstWebApp\\AnimalHotelWebApp.csproj|solutionrelative:ourfirstwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OurFirstWebApp\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OurFirstWebApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-19T18:19:25.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalHotelWebApp.http",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\AnimalHotelWebApp.http",
+              "RelativeDocumentMoniker": "OurFirstWebApp\\AnimalHotelWebApp.http",
+              "ToolTip": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\AnimalHotelWebApp.http",
+              "RelativeToolTip": "OurFirstWebApp\\AnimalHotelWebApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-19T18:18:09.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "OurFirstWebApp\\appsettings.json",
+              "ToolTip": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\appsettings.json",
+              "RelativeToolTip": "OurFirstWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-19T18:18:06.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Test.json",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\appsettings.Test.json",
+              "RelativeDocumentMoniker": "OurFirstWebApp\\appsettings.Test.json",
+              "ToolTip": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\appsettings.Test.json",
+              "RelativeToolTip": "OurFirstWebApp\\appsettings.Test.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-19T18:17:56.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "OurFirstWebApp\\appsettings.Development.json",
+              "ToolTip": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\appsettings.Development.json",
+              "RelativeToolTip": "OurFirstWebApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-19T18:17:53.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimalController.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\Controllers\\AnimalController.cs",
+              "RelativeDocumentMoniker": "OurFirstWebApp\\Controllers\\AnimalController.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\Controllers\\AnimalController.cs",
+              "RelativeToolTip": "OurFirstWebApp\\Controllers\\AnimalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:16:06.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "OurFirstWebApp\\WeatherForecast.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\WeatherForecast.cs",
+              "RelativeToolTip": "OurFirstWebApp\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:15:48.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "OurFirstWebApp\\Program.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework10\\OurFirstWebApp\\OurFirstWebApp\\Program.cs",
+              "RelativeToolTip": "OurFirstWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:14:43.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
